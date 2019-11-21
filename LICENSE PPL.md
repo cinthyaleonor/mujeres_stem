@@ -1,6 +1,6 @@
-#Licencia de Producción de Pares: un modelo para el copyfarleft
+##Licencia de Producción de Pares: un modelo para el copyfarleft
 
-## Índice general
+### Índice general
 
     Licencia de Producción de Pares
 
