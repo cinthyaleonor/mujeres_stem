@@ -1,6 +1,6 @@
-Licencia de Producción de Pares: un modelo para el copyfarleft
+#Licencia de Producción de Pares: un modelo para el copyfarleft
 
-Índice general
+## Índice general
 
     Licencia de Producción de Pares
 
@@ -16,7 +16,7 @@ LA OBRA (TAL Y COMO SE DEFINE MÁS ADELANTE) SE OTORGA BAJO ESTA LICENCIA COPYFA
 
 MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA LICENCIA, USTED ACEPTA Y CONSIENTE VERSE OBLIGADO EN LOS TÉRMINOS QUE SE SEÑALAN EN ELLA. EN LA MEDIDA QUE ESTA LICENCIA PUEDA SER CONSIDERADA COMO UN CONTRATO, EL LICENCIANTE LE CONCEDE A USTED LOS DERECHOS CONTENIDOS EN ELLA, CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
 
-    Definiciones
+   # Definiciones
 
         “Adaptación”, también llamada “Obra Derivada”, es aquella creación basada en la Obra, o basada en la Obra y otras creaciones preexistentes, tales como una traducción, una obra derivada, arreglo musical u otra modificación de una obra literaria o artística, o de un fonograma o interpretación, e incluye las adaptaciones cinematográficas o cualquier otra forma en que la Obra pueda ser transformada o modificada, comprendiendo cualquier forma reconocible derivada de la original, que constituya una creación autónoma, excepto que una obra forme parte de una Colección, en cuyo caso no será considerada una Adaptación para los fines de esta Licencia. Para evitar dudas, cuando la Obra es una creación musical, interpretación o fonograma, la sincronización de ella en cuanto al tiempo en relación con la imagen en movimiento será considerada una Adaptación para los fines de esta Licencia.
 
@@ -38,7 +38,7 @@ MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA LICEN
 
         “Reproducir” significa fijar la Obra por un medio que permita su comunicación y la obtención de copias de todo o parte de ella, por cualquier medio o procedimiento, incluyendo sin limitación grabaciones de sonido y visuales, e incluyendo el almacenamiento de una interpretación o fonograma protegido en un formato digital u otro medio electrónico.
 
-    Usos Legítimos.
+   # Usos Legítimos.
 
     Nada en esta Licencia podrá ser interpretado como una disminución, limitación o restricción de cualquiera de los derechos de usos que se encuentran permitidos por las leyes, tal como las excepciones y limitaciones a los derechos de autor y conexos previstos en la ley u otras legislaciones que resulten aplicables.
 
@@ -56,7 +56,7 @@ MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA LICEN
 
     Los derechos mencionados anteriormente pueden ser ejercidos en todos los medios y formatos actualmente conocidos o mediante aquellos que se inventen en el futuro. Los derechos antes mencionados incluyen el derecho a realizar dichas modificaciones, en la medida que sean técnicamente necesarias para ejercer los derechos en otros medios o formatos. Todos los derechos no otorgados expresamente por el Licenciante quedan reservados, incluyendo pero no limitándose a los derechos establecidos en las Secciones 4(e) y 4(f).
 
-    Restricciones.
+  #  Restricciones.
 
     La licencia otorgada en la anterior Sección 3 está expresamente sujeta y limitada por las siguientes restricciones:
 
@@ -84,7 +84,7 @@ MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA LICEN
 
         Los derechos morales no se verán alterados por esta Licencia en la medida que éstos sean reconocidos, y no considerados renunciables, por el derecho aplicable.
 
-    Garantía
+   # Garantía
 
     A MENOS QUE LAS PARTES LO CONVINIERAN DE OTRA FORMA POR ESCRITO, Y HASTA LA MAYOR EXTENSIÓN PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL LICENCIANTE OFRECE LA OBRA “TAL CUAL”, SIN BRINDAR GARANTÍAS DE CLASE ALGUNA RESPECTO DE LA OBRA, YA SEA EXPRESA, IMPLÍCITA, LEGAL O CUALQUIERA OTRA, INCLUYENDO, SIN LIMITACIÓN, GARANTÍAS DE TITULARIDAD, COMERCIABILIDAD, ADAPTABILIDAD A PROPÓSITO DETERMINADO, AUSENCIA DE INFRACCIÓN, DE DEFECTOS LATENTES O DE OTRO TIPO, PRECISIÓN O ERRORES, SEAN O NO DESCUBRIBLES. ALGUNOS PAÍSES NO PERMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS, EN CUYO CASO ESTA EXCLUSIÓN PUEDE NO APLICARSE A USTED.
 
@@ -98,7 +98,7 @@ MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA LICEN
 
         Sujeta a las condiciones y términos anteriores, la licencia otorgada aquí es permanente (durante el período de vigencia de los derechos de autor de la obra). No obstante lo anterior, el Licenciante se reserva el derecho a publicar y/o estrenar la Obra bajo condiciones de licencia diferentes o a dejar de distribuirla en los términos de esta Licencia en cualquier momento; sin embargo, cualquiera sea la elección, ella no surtirá efecto retroactivo respecto de la Licencia de este ejemplar de la obra (o cualquier otra Licencia que haya sido otorgada, o le haya sido exigida, bajo los términos de ésta). La Licencia revocada continuará siendo plenamente vigente y efectiva, en relación con los ejemplares de la obra distribuidos con ella, si no se le da término en las condiciones indicadas anteriormente.
 
-    Varios
+   # Varios
 
         Cada vez que Usted Distribuya o Ejecute Públicamente la Obra o una Colección, el Licenciante ofrecerá al destinatario una licencia en los mismos términos y condiciones que la licencia otorgada a Usted bajo esta Licencia.
 
